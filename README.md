@@ -24,11 +24,11 @@ As regras básicas são:
 
 ## Desafios realizados por mim
 
-
 * [Dia 01 - Ícone de mídia social em camadas](#id01)
+* [Dia 02 - Loader animado](#id02)
 
 
-####  Desafio dia 01 - Ícone de mídia social em camadas
+###  Desafio dia 01 - Ícone de mídia social em camadas <a name="id01"></a>
 
 ![Dia 01](https://user-images.githubusercontent.com/37448340/88348819-d38d7000-cd24-11ea-99d1-39b04afb77f2.gif)
 
@@ -45,7 +45,7 @@ As regras básicas são:
 * *[nth-child ()](https://www.w3schools.com/cssref/sel_nth-child.asp)*
 
 
-##  Desafio dia 02 - Loader animado
+###  Desafio dia 02 - Loader animado <a name="id02"></a>
 
 ![Dia 02](https://user-images.githubusercontent.com/37448340/88348825-d5573380-cd24-11ea-832c-989e091167b8.gif)
 
