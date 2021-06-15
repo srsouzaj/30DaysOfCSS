@@ -1,9 +1,7 @@
 <p align="center">
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/LPss79x/1-KY62-LYYg7z0jlimek-V2ze-A.jpg" alt="1-KY62-LYYg7z0jlimek-V2ze-A" border="0"></a>
-<h1 align="center">30 days of CSS</h1>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/LPss79x/1-KY62-LYYg7z0jlimek-V2ze-A.jpg" alt="1-KY62-LYYg7z0jlimek-V2ze-A" border="25%"></a>
+<h1 align="center"> #30daysofCSS</h1>
 </p>
-
-# #30DaysOfCSS
 
  Fala Devs, tudo certo?
 
