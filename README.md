@@ -1,4 +1,9 @@
-## #30DaysOfCSS
+<p align="center">
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/LPss79x/1-KY62-LYYg7z0jlimek-V2ze-A.jpg" alt="1-KY62-LYYg7z0jlimek-V2ze-A" border="0"></a>
+<h1 align="center">30 days of CSS</h1>
+</p>
+
+# #30DaysOfCSS
 
  Fala Devs, tudo certo?
 
@@ -19,23 +24,20 @@ As regras básicas são:
 
 
 
-### Desafios realizados por mim
+## Desafios realizados por mim
 
 
 * [Dia 01 - Ícone de mídia social em camadas](#id01)
 
 
-##  Desafio dia 01 - Ícone de mídia social em camadas <a name="id01"></a>
+####  Desafio dia 01 - Ícone de mídia social em camadas
 
 ![Dia 01](https://user-images.githubusercontent.com/37448340/88348819-d38d7000-cd24-11ea-99d1-39b04afb77f2.gif)
 
 [Meu codigo](https://github.com/jorgejrdj/30DaysOfCSS/tree/main/1%C2%BA%20Dia)
 
 
-
-
 ##### O que eu aprendi
-
 
 * *Criar as camadas utilizando a tag `<span>`*
 * *Transformação 2D ou 3D de um elemento [aqui](https://www.w3schools.com/cssref/css3_pr_transform.asp)*
@@ -45,3 +47,13 @@ As regras básicas são:
 * *[nth-child ()](https://www.w3schools.com/cssref/sel_nth-child.asp)*
 
 
+##  Desafio dia 02 - Loader animado
+
+![Dia 02](https://user-images.githubusercontent.com/37448340/88348825-d5573380-cd24-11ea-832c-989e091167b8.gif)
+
+[Meu código](https://github.com/jorgejrdj/30DaysOfCSS/tree/main/2%C2%BA%20dia)
+
+
+##### O que eu aprendi
+
+* *[Keyframes](https://www.w3schools.com/css/css3_animations.asp)*
