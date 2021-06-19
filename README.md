@@ -3,7 +3,7 @@
 <h1 align="center"> #30daysofCSS</h1>
 </p>
 
- Fala Devs, tudo certo?
+ Fala pessoal, tudo certo?
 
 Iniciei hoje o desafio #30DaysOfCSS, que consiste em treinar as habilidades e melhorar as estilizações em HTML5 e CSS3, com pequenos exercícios diários. 
 
