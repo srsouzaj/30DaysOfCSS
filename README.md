@@ -2,8 +2,10 @@
 
 <p align="center">
 <a href="https://ibb.co/FhLpQxn"><img src="https://i.ibb.co/Rgk8Xv7/CSS5-Partner-logo.png" alt="CSS5-Partner-logo></a>
-<h1 align="center"> #30daysofCSS</h1>
+<h1 align="center"> </a>
+    <h1>#30daysofCSS</h1>
 </p>
+
 
 
 
